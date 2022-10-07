@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Ryan, an avid gamer, music enjoyer, and software engineer who enjoys building small projects in my free time!
+I'm Ryan, an avid gamer, music lover, and software engineer who enjoys building small projects in my free time!
 
 
 # 💻 Tech Stack:
