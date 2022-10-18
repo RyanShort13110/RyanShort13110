@@ -15,7 +15,7 @@ I'm Ryan, an avid gamer, music lover, and software engineer who enjoys building 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![](https://www.codewars.com/users/ryanS_/badges/micro)
+![](https://www.codewars.com/users/ryanS_/badges/small)
 
 [![](https://visitcount.itsvg.in/api?id=RyanShort13110&icon=5&color=3)](https://visitcount.itsvg.in)
 
