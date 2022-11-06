@@ -1,10 +1,10 @@
-Hey, I'm Ryan
+Hello there, I'm Ryan
 =====================
 
 MERN Stack Software Engineer
 ----------------------------
 
-A creative and forward-thinking Web Developer who creates cutting-edge websites and applications for high-profile clients with challenging demands and visions. Skilled project manager, team leader, and analytical problem-solver with top-notch organizational, scheduling, and code verification skills. An avid gamer, music enjoyer, and puzzle solver. Open to collaboration!
+A creative and forward-thinking Web Developer who creates cutting-edge websites and applications for high-profile clients with challenging demands and visions. Skilled project manager, team leader, and analytical problem-solver with top-notch organizational, scheduling, and code verification skills. A life-long musician and lover of synthesizers and all things modular. Always open to collaboration so feel free to reach out via email!
 
 *   🖥️  See my portfolio at [ryan-short.netlify.app](http://ryan-short.netlify.app)
 *   ✉️  You can contact me at [ryanshort.webdev@gmail.com](mailto:ryanshort.webdev@gmail.com)
