@@ -1,4 +1,4 @@
-Hello there, I'm Ryan
+Hi, I'm Ryan
 =====================
 
 MERN Stack Software Engineer
