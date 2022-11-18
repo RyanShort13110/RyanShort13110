@@ -11,7 +11,9 @@ A creative and forward-thinking Web Developer who creates cutting-edge websites 
 <a href="https://www.github.com/RyanShort13110" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/RyanShort13110?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a>
 
+
 ![](https://www.codewars.com/users/ryanS_/badges/small)
+
 
 ### Skills 
 <p align="left">
