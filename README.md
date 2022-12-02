@@ -13,6 +13,7 @@ A creative and forward-thinking Web Developer who creates cutting-edge websites 
 
 *   🖥️  See my portfolio at [ryan-short.netlify.app](http://ryan-short.netlify.app)
 *   ✉️  You can contact me at [ryanshort.webdev@gmail.com](mailto:ryanshort.webdev@gmail.com)
+*   ![](https://www.codewars.com/users/ryanS_/badges/small)
 
 
 <h1 align="center">Projects</h1>
