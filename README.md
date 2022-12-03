@@ -2,13 +2,14 @@
 
 <p align="center">
   <a href="https://ryan-short.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Website&color=23555f&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ryanshort-developer" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LinkedIn&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <img src="https://www.codewars.com/users/ryanS_/badges/micro">
-
+  <a href="https://www.codewars.com/users/ryanS_" target="_blank">
+    <img src="https://www.codewars.com/users/ryanS_/badges/micro">
+  </a>
 </p>
 
 
@@ -32,10 +33,12 @@ A creative and forward-thinking Web Developer who creates cutting-edge websites 
         <p align="center">
           
   <a href="https://github.com/RyanShort13110/stargazers" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
+          
+          
   <a href="https://lastargazers.netlify.app/#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Website&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
       <p><strong>HTML, CSS, SCSS, Javascript</strong> - A project made for a small L.A. based astronomy community.</p>
@@ -44,16 +47,16 @@ A creative and forward-thinking Web Developer who creates cutting-edge websites 
       <h3 align="center">Qwerdle!</h3>
         <br />
       <a target="_blank" href="https://qwerdle.netlify.app/">
-            <img src="https://github.com/RyanShort13110/qwerdle/blob/main/qwerdle.gif" width="100%"  alt="Qwerdle"/>
+            <img src="https://github.com/RyanShort13110/qwerdle/blob/main/qwerdle.gif" width="100%"  alt="qwerdle"/>
         </a>
         <br />
         <p align="center">
           
   <a href="https://github.com/RyanShort13110/qwerdle" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://qwerdle.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Website&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML, CSS, Javascript</strong> - Simple remake of the popular game Wordle.</p>
