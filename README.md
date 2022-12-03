@@ -7,13 +7,15 @@
   <a href="https://www.linkedin.com/in/ryanshort-developer" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
+  <img src="https://www.codewars.com/users/ryanS_/badges/micro">
+
 </p>
+
 
 A creative and forward-thinking Web Developer who creates cutting-edge websites and applications for high-profile clients with challenging demands and visions. Skilled project manager, team leader, and analytical problem-solver with top-notch organizational, scheduling, and code verification skills. A life-long musician and lover of synthesizers and all things modular. Always open to collaboration so feel free to reach out via email!
 
 *   🖥️  See my portfolio at [ryan-short.netlify.app](http://ryan-short.netlify.app)
 *   ✉️  You can contact me at [ryanshort.webdev@gmail.com](mailto:ryanshort.webdev@gmail.com)
-*   ![](https://www.codewars.com/users/ryanS_/badges/small)
 
 
 <h1 align="center">Projects</h1>
@@ -24,7 +26,7 @@ A creative and forward-thinking Web Developer who creates cutting-edge websites 
       <h3 align="center">LA Stargazers</h3>
         <br />
         <a target="_blank" href="https://lastargazers.netlify.app/#">
-            <img src="https://github.com/RyanShort13110/stargazers/blob/main/images/starGazers.gif" width="100%" alt="Travel App"/>
+            <img src="https://github.com/RyanShort13110/stargazers/blob/main/images/starGazers.gif" width="100%" alt="stargazers"/>
         </a>
         <br />
         <p align="center">
@@ -36,13 +38,13 @@ A creative and forward-thinking Web Developer who creates cutting-edge websites 
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, SCSS, Javascript - A project made for a small L.A. based astronomy community.</p>
+      <p><strong>HTML, CSS, SCSS, Javascript</strong> - A project made for a small L.A. based astronomy community.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Qwerdle!</h3>
         <br />
       <a target="_blank" href="https://qwerdle.netlify.app/">
-            <img src="https://github.com/RyanShort13110/qwerdle/blob/main/qwerdle.gif" width="100%"  alt="Rigley 2"/>
+            <img src="https://github.com/RyanShort13110/qwerdle/blob/main/qwerdle.gif" width="100%"  alt="Qwerdle"/>
         </a>
         <br />
         <p align="center">
@@ -54,7 +56,7 @@ A creative and forward-thinking Web Developer who creates cutting-edge websites 
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, Javascript</strong> - SImple remake of the popular game Wordle.</p>
+        <p><strong>HTML, CSS, Javascript</strong> - Simple remake of the popular game Wordle.</p>
     </td>
   </tr>
   
