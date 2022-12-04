@@ -47,7 +47,7 @@ A creative and forward-thinking Web Developer who creates cutting-edge websites 
       <h3 align="center">Qwerdle!</h3>
         <br />
       <a target="_blank" href="https://qwerdle.netlify.app/">
-            <img src="https://github.com/RyanShort13110/qwerdle/blob/main/qwerdle.gif" width="100%"  alt="qwerdle"/>
+            <img src="https://ryan-short.netlify.app/images/qwerdleGif.gif" width="100%"  alt="qwerdle"/>
         </a>
         <br />
         <p align="center">
