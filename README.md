@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQFAWw--mSf_ng/profile-displaybackgroundimage-shrink_350_1400/0/1661883284568?e=1675296000&v=beta&t=3Oii7763XyR8a1PbgvsUKkly8KNRZuiM0fN9f8K4zhw" width="100%">
+<img src="https://media-exp1.licdn.com/dms/image/D5616AQHTEFdIRtqbPg/profile-displaybackgroundimage-shrink_350_1400/0/1670129694253?e=1675900800&v=beta&t=DJoPMdNGWNcdHh66zog35AznMHQHLbtJpqy1klub3Bk" width="100%">
 
 <p align="center">
   <a href="https://ryan-short.netlify.app" target="_blank">
