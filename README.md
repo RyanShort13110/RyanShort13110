@@ -1,7 +1,7 @@
 <img src="https://media-exp1.licdn.com/dms/image/D5616AQGVvH8ttMi0zQ/profile-displaybackgroundimage-shrink_350_1400/0/1670272851637?e=1675900800&v=beta&t=-ey18pthTFwTo8OA2nXtX1H17o9YTAMMhc4CrhyvoOA" width="100%">
 
 <p align="center">
-  <a href="https://ryan-short.netlify.app" target="_blank">
+  <a href="https://ryanshort.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=23555f&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ryan-short-06402a240" target="_blank">
@@ -15,7 +15,7 @@
 
 A creative and forward-thinking Web Developer who creates cutting-edge websites and applications for high-profile clients with challenging demands and visions. Skilled project manager, team leader, and analytical problem-solver with top-notch organizational, scheduling, and code verification skills. A life-long musician and lover of synthesizers and all things modular. Always open to collaboration so feel free to reach out via email!
 
-*   🖥️  See my portfolio at [ryan-short.netlify.app](http://ryan-short.netlify.app)
+*   🖥️  See my portfolio at [ryanshort.netlify.app](http://ryanshort.netlify.app)
 *   ✉️  You can contact me at [ryanshort.webdev@gmail.com](mailto:ryanshort.webdev@gmail.com)
 
 
@@ -47,7 +47,7 @@ A creative and forward-thinking Web Developer who creates cutting-edge websites 
       <h3 align="center">Qwerdle!</h3>
         <br />
       <a target="_blank" href="https://qwerdle.netlify.app/">
-            <img src="https://ryan-short.netlify.app/images/qwerdleGif.gif" width="100%"  alt="qwerdle"/>
+            <img src="https://ryanshort.netlify.app/images/qwerdleGif.gif" width="100%"  alt="qwerdle"/>
         </a>
         <br />
         <p align="center">
