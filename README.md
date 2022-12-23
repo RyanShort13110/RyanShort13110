@@ -76,6 +76,8 @@ A creative and forward-thinking Web Developer who creates cutting-edge websites 
     <img src="https://img.shields.io/static/v1?label=|&message=Bootstrap&color=316c5e&style=plastic&logo=bootstrap"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JavaScript&color=3c7f5d&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=React.js&color=4a935c&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=C%23&color=cbb148&style=plastic&logo=csharp"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=dotnet&color=cbb148&style=plastic&logo=dotnet"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Typescript&color=4a935c&style=plastic&logo=typescript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Selenium&color=cdf998&style=plastic&logo=selenium"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Wordpress&color=cdd148&style=plastic&logo=wordpress"/>
