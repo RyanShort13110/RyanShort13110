@@ -54,7 +54,7 @@ A creative and forward-thinking Web Developer who creates cutting-edge websites 
       <h3 align="center">LA Stargazers</h3>
         <br />
         <a target="_blank" href="https://lastargazers.netlify.app/#">
-            <img src="https://github.com/RyanShort13110/ryan_short_portfolio/blob/main/images/la-star-gazers-animated.gif" width="100%" alt="stargazers"/>
+            <img src="https://raw.githubusercontent.com/RyanShort13110/ryan_short_portfolio/main/images/la-star-gazers-animated.gif?token=GHSAT0AAAAAABXKKZ4Q6XCTCETJDIFTEQPSY5MPQMQ" width="100%" alt="stargazers"/>
         </a>
         <br />
         <p align="center">
@@ -74,7 +74,7 @@ A creative and forward-thinking Web Developer who creates cutting-edge websites 
       <h3 align="center">Brieje Salon</h3>
         <br />
       <a target="_blank" href="#"> <!-- this one isn't quite finished yet, so no link(s) for now =) -->
-            <img src="https://github.com/RyanShort13110/ryan_short_portfolio/blob/main/images/brieje_salon_animated.gif" width="100%"  alt="qwerdle"/>
+            <img src="https://raw.githubusercontent.com/RyanShort13110/ryan_short_portfolio/main/images/brieje_salon_animated.gif?token=GHSAT0AAAAAABXKKZ4QYP7HKRT5Y57U6TNQY5MPRNA" width="100%"  alt="qwerdle"/>
         </a>
         <br />
         <p align="center">
