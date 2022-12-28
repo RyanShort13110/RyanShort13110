@@ -54,7 +54,7 @@ A creative and forward-thinking Web Developer who creates cutting-edge websites 
       <h3 align="center">LA Stargazers</h3>
         <br />
         <a target="_blank" href="https://lastargazers.netlify.app/#">
-            <img src="https://github.com/RyanShort13110/ryan_short_portfolio/blob/main/images/star-gazers-animated12.gif" width="100%" alt="stargazers"/>
+            <img src="https://github.com/RyanShort13110/ryan_short_portfolio/blob/main/images/star-gazers-animated10.gif" width="100%" alt="stargazers"/>
         </a>
         <br />
         <p align="center">
