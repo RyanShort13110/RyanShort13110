@@ -73,7 +73,7 @@ A creative and forward-thinking Web Developer who creates cutting-edge websites 
     <td width="50%" valign="top">
       <h3 align="center">Brieje Salon</h3>
         <br />
-      <a target="_blank" href="#"> <!-- this one isn't quite finished yet, so no link(s) for now =) -->
+      <a target="_blank" href="https://brieje.netlify.app/index.html"> 
             <img src="brieje_animated.gif" width="100%"  alt="qwerdle"/>
         </a>
         <br />
@@ -82,7 +82,7 @@ A creative and forward-thinking Web Developer who creates cutting-edge websites 
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://brieje.netlify.app/index.html" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
