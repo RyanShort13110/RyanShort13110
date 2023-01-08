@@ -47,7 +47,7 @@ A creative and forward-thinking Web Developer who creates cutting-edge websites 
 *   ✉️  Contact me: [ryanshort.webdev@gmail.com](mailto:ryanshort.webdev@gmail.com)
 
 
-<h1 align="center">Projects</h1>
+<h1 align="center">Recent projects</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
