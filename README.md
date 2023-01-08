@@ -26,6 +26,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=GitHub&color=cbb148&style=plastic&logo=github"/>
 </p>
 
+---
 
 <p align="center">
   <a href="https://ryanshort.netlify.app" target="_blank">
