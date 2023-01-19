@@ -1,8 +1,6 @@
-<img src="https://media-exp1.licdn.com/dms/image/D5616AQGVvH8ttMi0zQ/profile-displaybackgroundimage-shrink_350_1400/0/1670272851637?e=1675900800&v=beta&t=-ey18pthTFwTo8OA2nXtX1H17o9YTAMMhc4CrhyvoOA" width="100%">
-
+<img src="https://media.licdn.com/dms/image/D5616AQGVvH8ttMi0zQ/profile-displaybackgroundimage-shrink_350_1400/0/1670272851637?e=1679529600&v=beta&t=MjOAXaSTKCks8Hra3YGRpjsypcdHk6r6E0c-Upsj8Ts" width="100%">
 
 <h1 align="center">Technologies</h1>
-
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
@@ -30,65 +28,104 @@
 
 <p align="center">
   <a href="https://ryanshort.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=Website&color=23555f&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Website&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.codewars.com/users/ryanS_" target="_blank">
     <img src="https://www.codewars.com/users/ryanS_/badges/micro">
   </a>
-  <a href="https://www.linkedin.com/in/ryan-short-06402a240" target="_blank">
+  <a href="https://www.linkedin.com/in/ryanshort-developer/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LinkedIn&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
+<!--   <a href="resume" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a> -->
 </p>
 
 
 A creative and forward-thinking Web Developer who creates cutting-edge websites and applications for high-profile clients with challenging demands and visions. Skilled project manager, team leader, and analytical problem-solver with top-notch organizational, scheduling, and code verification skills. A life-long musician and lover of synthesizers and all things modular. Always open to collaboration so feel free to reach out via email!
 
+
 *   🖥️  See my portfolio: [ryanshort.netlify.app](http://ryanshort.netlify.app)
 *   ✉️  Contact me: [ryanshort.webdev@gmail.com](mailto:ryanshort.webdev@gmail.com)
 
 
-<h1 align="center">Recent projects</h1>
+<h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">LA Stargazers</h3>
-        <br />
-        <a target="_blank" href="https://lastargazers.netlify.app/#">
-            <img src="star-gazers-animated10.gif" width="100%" alt="stargazers"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/RyanShort13110/stargazers" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-          
-          
-  <a href="https://lastargazers.netlify.app/#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=Website&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-      <p><strong>HTML, CSS, SCSS, Javascript</strong> - Site made for a small L.A. based astronomy community</p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center">Brieje Salon</h3>
         <br />
-      <a target="_blank" href="https://brieje.netlify.app/index.html"> 
-            <img src="brieje_animated.gif" width="100%"  alt="qwerdle"/>
+        <a target="_blank" href="https://brieje.netlify.app/">
+            <img src="brieje_animated.gif" width="100%" alt="brieje"/>
         </a>
         <br />
         <p align="center">
           
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://brieje.netlify.app/index.html" target="_blank">
+  </a>  
+  <a href="https://brieje.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, SCSS, Javascript</strong> - Site built for a salon in historic Galtinburg, TN</p>
+        <p><strong>Javascript, Express, Node.js CSS, SCSS, HTML</strong> - A site built for a classy salon, located in Historic Downtown Gatlinburg, TN</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">L.A. Star Gazers</h3>
+        <br />
+      <a target="_blank" href="https://lastargazers.netlify.app/">
+            <img src="star-gazers-animated10.gif" width="100%"  alt="LASG"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/RyanShort13110/stargazers" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://lastargazers.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Website&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, Express, Node.js CSS, SCSS, HTML</strong> - Site made for a small L.A. based astronomy community</p>
     </td>
   </tr>
   
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">The Unofficial DBZ API</h3>
+      <br />
+        <a target="_blank" href="https://unofficialdbzapi.netlify.app/">
+          <img src="dbzDocSite.gif" width="100%" alt="dbz api"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/RyanShort13110/dbz-api" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://unofficialdbzapi.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Website&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, JavaScript, Node.js, Express.js</strong> - This is a simple API that sends DBZ character data to client devices.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Qwerdle</h3>
+        <br />
+        <a target="_blank" href="https://qwerdle.netlify.app/">
+          <img src="qwerdlebiggif.gif" width="100%" alt="qwerdle gif"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/RyanShort13110/qwerdle" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://qwerdle.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Website&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - A fun remake of the popular game 'Wordle'</p>
+    </td>
+  </tr>
 </table>
