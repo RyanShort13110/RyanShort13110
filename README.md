@@ -1,6 +1,11 @@
-<img src="https://media.licdn.com/dms/image/D5616AQGVvH8ttMi0zQ/profile-displaybackgroundimage-shrink_350_1400/0/1670272851637?e=1679529600&v=beta&t=MjOAXaSTKCks8Hra3YGRpjsypcdHk6r6E0c-Upsj8Ts" width="100%">
+<h1 align="center">Hi, I'm Ryan.</h1>
 
-<h1 align="center">Technologies</h1>
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.fjcdn.com%2Fgifs%2FRick_e434c5_5559490.gif&f=1&nofb=1&ipt=914d5c6b5554b486795212b6c3aec163a4a5a0177d4e8688db15ac6d9d04dce9&ipo=images" alt="Logo" width="300">
+    </a>
+</div>
+
+<h2 align="center">Tech</h2>
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
@@ -42,11 +47,11 @@
 </p>
 
 
-*   🖥️  See my portfolio: [ryanshort.netlify.app](http://ryanshort.netlify.app)
-*   ✉️  Contact me: [ryanshort.webdev@gmail.com](mailto:ryanshort.webdev@gmail.com)
+*   🖥️  Portfolio: [ryanshort.netlify.app](http://ryanshort.netlify.app)
+*   ✉️  Contact: [ryanshort.webdev@gmail.com](mailto:ryanshort.webdev@gmail.com)
 
 
-<h1 align="center">Projects</h1>
+<h2 align="center">Recent Projects</h2>
 <table bordercolor="#66b2b2">
   
   <tr>
