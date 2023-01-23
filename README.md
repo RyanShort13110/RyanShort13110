@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ryan.</h1>
 
 <div align="center">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.fjcdn.com%2Fgifs%2FRick_e434c5_5559490.gif&f=1&nofb=1&ipt=914d5c6b5554b486795212b6c3aec163a4a5a0177d4e8688db15ac6d9d04dce9&ipo=images" alt="Logo" width="300">
+    <img src="https://media.licdn.com/dms/image/D5616AQGVvH8ttMi0zQ/profile-displaybackgroundimage-shrink_350_1400/0/1670272851637?e=1680134400&v=beta&t=wV-kpbn7lpZjJYttOaevyNvqZPZIBpzWqEAmSJQ-iak" alt="Logo">
     </a>
 </div>
 
