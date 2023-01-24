@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Ryan.</h1>
 
 <div align="center">
     <img src="https://media.licdn.com/dms/image/D5616AQGVvH8ttMi0zQ/profile-displaybackgroundimage-shrink_350_1400/0/1670272851637?e=1680134400&v=beta&t=wV-kpbn7lpZjJYttOaevyNvqZPZIBpzWqEAmSJQ-iak" alt="Logo">
