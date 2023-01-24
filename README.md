@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://ryanshort.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=Website&color=23555f&style=social&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Website&color=23555f&style=social&logo=webpack&logo-color=white"/>
   </a>
   <a href="https://www.codewars.com/users/ryanS_" target="_blank">
     <img src="https://www.codewars.com/users/ryanS_/badges/micro">
