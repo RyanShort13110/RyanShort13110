@@ -50,7 +50,7 @@
 
 
 *   🖥️  Portfolio: [ryanshort.netlify.app](http://ryanshort.netlify.app)
-*   ✉️  Contact: [ryanshort.webdev@gmail.com](mailto:ryanshort.webdev@gmail.com)
+*   ✉️  Contact: [ryanshort.dev@gmail.com](mailto:ryanshort.dev@gmail.com)
 
 
 <h2 align="center">Recent Projects</h2>
