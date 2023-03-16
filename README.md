@@ -37,8 +37,8 @@
   <a href="https://ryanshort.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=23555f&style=social&logo=webpack&logo-color=white"/>
   </a>
-  <a href="https://www.codewars.com/users/ryanS_" target="_blank">
-    <img src="https://www.codewars.com/users/ryanS_/badges/micro">
+  <a href="https://www.codewars.com/users/paxinXr" target="_blank">
+    <img src="https://www.codewars.com/users/paxinXr/badges/micro">
   </a>
   <a href="https://www.linkedin.com/in/ryanshort-developer/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LinkedIn&color=cdf998&style=social&logo=linkedin&logo-color=white"/>
