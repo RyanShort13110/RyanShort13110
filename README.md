@@ -4,7 +4,9 @@
     </a>
 </div>
 
+
 <h2 align="center">Tech</h2>
+
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=for-the-badge&logo=html5"/>
@@ -133,4 +135,3 @@
     </td>
   </tr>
 </table>
-
