@@ -36,7 +36,7 @@
 ---
 
 <p align="center">
-  <a href="https://ryanshort.netlify.app" target="_blank">
+  <a href="https://ryanshort.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=23555f&style=social&logo=webpack&logo-color=white"/>
   </a>
   <a href="https://www.codewars.com/users/ryanS_" target="_blank">
@@ -51,7 +51,7 @@
 </p>
 
 
-*   🖥️  Portfolio: [ryanshort.netlify.app](http://ryanshort.netlify.app)
+*   🖥️  Portfolio: [ryanshort.dev](http://www.ryanshort.dev)
 *   ✉️  Contact: [ryanshort.dev@gmail.com](mailto:ryanshort.dev@gmail.com)
 
 
