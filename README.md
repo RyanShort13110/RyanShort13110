@@ -116,22 +116,22 @@
         <p><strong>HTML, CSS, JavaScript, Node.js, Express.js</strong> - This is a simple API that sends DBZ character data to client devices</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Qwerdle</h3>
+      <h3 align="center">Raw Curiosity</h3>
         <br />
-        <a target="_blank" href="https://qwerdle.netlify.app/">
-          <img src="qwerdlebiggif.gif" width="100%" alt="qwerdle gif"/>
+        <a target="_blank" href="https://rawcuriosity.netlify.app/">
+          <img src="https://github.com/RyanShort13110/raw_curiosity/blob/main/raw-curiosity-ani.gif" width="100%" alt="qwerdle gif"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/RyanShort13110/qwerdle" target="_blank">
+  <a href="https://github.com/RyanShort13110/raw_curiosity" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://qwerdle.netlify.app/" target="_blank">
+  <a href="https://rawcuriosity.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=cdf998&style=plastic&logo=webpack&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - A fun remake of the popular game 'Wordle'</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - View photos from Curiosity, Opportunity, and Spirit rovers on Mars.</p>
     </td>
   </tr>
 </table>
