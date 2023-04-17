@@ -93,7 +93,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=cdf998&style=plastic&logo=webpack&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - View photos from Curiosity, Opportunity, and Spirit rovers on Mars.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - View photos from the Curiosity, Opportunity, and Spirit rovers on Mars</p>
     </td>
   </tr>
   
