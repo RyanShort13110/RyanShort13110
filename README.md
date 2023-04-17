@@ -78,22 +78,22 @@
         <p><strong>Javascript, Express, Node.js CSS, SCSS, HTML</strong> - A site built for a classy salon, located in Historic Downtown Gatlinburg, TN</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">L.A. Star Gazers</h3>
+      <h3 align="center">Raw Curiosity</h3>
         <br />
-      <a target="_blank" href="https://lastargazers.netlify.app/">
-            <img src="star-gazers-animated10.gif" width="100%"  alt="LASG"/>
+        <a target="_blank" href="https://rawcuriosity.netlify.app/">
+          <img src="https://github.com/RyanShort13110/raw_curiosity/blob/main/raw-curiosity-gif.gif" width="100%" alt="qwerdle gif"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/RyanShort13110/stargazers" target="_blank">
+  <a href="https://github.com/RyanShort13110/raw_curiosity" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://lastargazers.netlify.app/" target="_blank">
+  <a href="https://rawcuriosity.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=cdf998&style=plastic&logo=webpack&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Express, Node.js CSS, SCSS, HTML</strong> - Site made for a small L.A. based astronomy community</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - View photos from Curiosity, Opportunity, and Spirit rovers on Mars.</p>
     </td>
   </tr>
   
@@ -115,23 +115,23 @@
       </p>
         <p><strong>HTML, CSS, JavaScript, Node.js, Express.js</strong> - This is a simple API that sends DBZ character data to client devices</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Raw Curiosity</h3>
+      <td width="50%" valign="top">
+      <h3 align="center">L.A. Star Gazers</h3>
         <br />
-        <a target="_blank" href="https://rawcuriosity.netlify.app/">
-          <img src="https://github.com/RyanShort13110/raw_curiosity/blob/main/raw-curiosity-ani.gif" width="100%" alt="qwerdle gif"/>
+      <a target="_blank" href="https://lastargazers.netlify.app/">
+            <img src="star-gazers-animated10.gif" width="100%"  alt="LASG"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/RyanShort13110/raw_curiosity" target="_blank">
+  <a href="https://github.com/RyanShort13110/stargazers" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://rawcuriosity.netlify.app/" target="_blank">
+  <a href="https://lastargazers.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=cdf998&style=plastic&logo=webpack&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - View photos from Curiosity, Opportunity, and Spirit rovers on Mars.</p>
+        <p><strong>Javascript, Express, Node.js CSS, SCSS, HTML</strong> - Site made for a small L.A. based astronomy community</p>
     </td>
   </tr>
 </table>
