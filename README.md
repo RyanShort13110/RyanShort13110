@@ -102,7 +102,7 @@
       <h3 align="center">The Unofficial DBZ API</h3>
       <br />
         <a target="_blank" href="https://unofficialdbzapi.netlify.app/">
-          <img src="dbzAPIgif.gif" width="100%" alt="dbz api"/>
+          <img src="dbaDocumentation.gif" width="100%" alt="dbz api"/>
         </a>
       <br />
         <p align="center">
