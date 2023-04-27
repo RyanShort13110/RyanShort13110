@@ -101,7 +101,7 @@
     <td width="50%" valign="top">
       <h3 align="center">The Unofficial DBZ API</h3>
       <br />
-        <a target="_blank" href="https://unofficialdbzapi.netlify.app/">
+        <a target="_blank" href="https://unofficialdbzapi.cyclic.app/">
           <img src="dbzAPIRoundTwo.gif" width="100%" alt="dbz api"/>
         </a>
       <br />
@@ -109,7 +109,7 @@
   <a href="https://github.com/RyanShort13110/dbz-api" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://unofficialdbzapi.netlify.app/" target="_blank">
+  <a href="https://unofficialdbzapi.cyclic.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=cdf998&style=plastic&logo=webpack&logo-color=white"/>
   </a>
       </p>
