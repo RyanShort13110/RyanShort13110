@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=cdf998&style=plastic&logo=webpack&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Express, Node.js CSS, SCSS, HTML</strong> - A site built for a classy salon, located in Historic Downtown Gatlinburg, TN</p>
+        <p><strong>Javascript, Express, Node.js CSS, SCSS, HTML</strong> - A site for a classy salon located in Historic Downtown Gatlinburg, TN</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Raw Curiosity</h3>
@@ -102,7 +102,7 @@
       <h3 align="center">The Unofficial DBZ API</h3>
       <br />
         <a target="_blank" href="https://unofficialdbzapi.netlify.app/">
-          <img src="dbaDocumentation.gif" width="100%" alt="dbz api"/>
+          <img src="dbzAPIRoundTwo.gif" width="100%" alt="dbz api"/>
         </a>
       <br />
         <p align="center">
@@ -131,7 +131,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=cdf998&style=plastic&logo=webpack&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Express, Node.js CSS, SCSS, HTML</strong> - Site made for a small L.A. based astronomy community</p>
+        <p><strong>Javascript, Node.js, CSS, SCSS, HTML</strong> - Site made for a small L.A. based astronomy community</p>
     </td>
   </tr>
 </table>
