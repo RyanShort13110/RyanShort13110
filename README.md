@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=cdf998&style=plastic&logo=webpack&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Express, Node.js CSS, SCSS, HTML</strong> - A site for a classy salon located in Historic Downtown Gatlinburg, TN</p>
+        <p><strong>HTML5, CSS3, SCSS & Javascript</strong> - A site for a classy salon located in Historic Downtown Gatlinburg, TN</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Raw Curiosity</h3>
@@ -93,7 +93,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=cdf998&style=plastic&logo=webpack&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - View photos from the Curiosity, Opportunity, and Spirit rovers on Mars</p>
+        <p><strong>HTML5, CSS3, Javascript, Node.js & Express.js</strong> - View photos from the Curiosity, Opportunity, and Spirit rovers on Mars</p>
     </td>
   </tr>
   
@@ -113,7 +113,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=cdf998&style=plastic&logo=webpack&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript, Node.js, Express.js</strong> - This is a simple API that sends DBZ character data to client devices</p>
+        <p><strong>HTML, CSS, SCSS JavaScript, Node.js & Express.js</strong> - This is a simple API that sends DBZ character data to client devices. Hosted with Cyclic</p>
     </td>
       <td width="50%" valign="top">
       <h3 align="center">L.A. Star Gazers</h3>
@@ -131,7 +131,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=cdf998&style=plastic&logo=webpack&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Node.js, CSS, SCSS, HTML</strong> - Site made for a small L.A. based astronomy community</p>
+        <p><strong>HTML5, CSS3, Javascript, Node.js & Express.js</strong> - Site made for a small L.A. based astronomy community</p>
     </td>
   </tr>
 </table>
