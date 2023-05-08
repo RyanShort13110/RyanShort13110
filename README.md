@@ -113,7 +113,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=cdf998&style=plastic&logo=webpack&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, SCSS JavaScript, Node.js & Express.js</strong> - This is a simple API that sends DBZ character data to client devices. Hosted with Cyclic</p>
+        <p><strong>HTML, CSS, SCSS JavaScript, Node.js & Express.js</strong> - This is a simple API that sends DBZ character data to client devices</p>
     </td>
       <td width="50%" valign="top">
       <h3 align="center">L.A. Star Gazers</h3>
