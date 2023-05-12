@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=Typescript&color=4a935c&style=for-the-badge&logo=typescript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Selenium&color=cdf998&style=for-the-badge&logo=selenium"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Wordpress&color=cdd148&style=for-the-badge&logo=wordpress"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PHP&color=cbb148&style=for-the-badge&logo=php"/>
     <img src="https://img.shields.io/static/v1?label=|&message=SQL&color=2b625f&style=for-the-badge&logo=sql"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Adobe&color=98bf53&style=for-the-badge&logo=adobe"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Mongo-DB&color=cdd148&style=for-the-badge&logo=mongodb"/>
