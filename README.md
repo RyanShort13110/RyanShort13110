@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://cdn.wallpapersafari.com/33/41/5nCvx3.gif" alt="Logo">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2FxUOxfmSpAgpDzTiTyE%2Fgiphy.gif&f=1&nofb=1&ipt=322981a8ec028eb9b0eac6e64035046309d796f93622ee09bd237cb29a550ef4&ipo=images" alt="Logo">
     </a>
 </div>
 
