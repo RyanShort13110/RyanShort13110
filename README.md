@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2FxUOxfmSpAgpDzTiTyE%2Fgiphy.gif&f=1&nofb=1&ipt=322981a8ec028eb9b0eac6e64035046309d796f93622ee09bd237cb29a550ef4&ipo=images" alt="Logo">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fae929f0d9ddcab6d41b878d79d05646f%2Ftenor.gif%3Fitemid%3D12321391&f=1&nofb=1&ipt=85932eaeef1b038705f6e8e0eb6cfcb23d45cf129379e47d31fbc727ab63d563&ipo=images" alt="Logo">
     </a>
 </div>
 
