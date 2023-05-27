@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.reactiongifs.us%2Fwp-content%2Fuploads%2F2014%2F01%2Fi_get_it_meatwad_athf.gif&f=1&nofb=1&ipt=87fee2d5f2288d413daa54cad40d4ee0e83cf88dd543d6599ed80d3b6a3d6cdf&ipo=images" alt="Logo">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FJb5rZyKt31IGs%2Fgiphy.gif&f=1&nofb=1&ipt=5cb6f6d8b2115e5e3827b3ece7150006b47db5b6e8f284559b265fef1e767ad8&ipo=images" alt="Logo">
     </a>
 </div>
 
