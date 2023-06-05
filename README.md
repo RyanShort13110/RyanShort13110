@@ -40,7 +40,7 @@
   <a href="https://ryanshort.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=23555f&style=social&logo=webpack&logo-color=white"/>
   </a>
-  <a href="https://www.codewars.com/users/ryanS_" target="_blank">
+  <a href="https://www.codewars.com/users/rysho" target="_blank">
     <img src="https://www.codewars.com/users/rysho/badges/micro">
   </a>
   <a href="https://www.linkedin.com/in/ryanshort-developer/" target="_blank">
