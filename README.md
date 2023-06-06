@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=Bootstrap&color=3165e&style=for-the-badge&logo=bootstrap"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JavaScript&color=3c7f5d&style=for-the-badge&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=React.js&color=4a935c&style=for-the-badge&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EJS&color=cdf998&style=for-the-badge&logo=ejs"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EJS&color=cdf998&style=for-the-badge&logo=codesandbox"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Typescript&color=4a935c&style=for-the-badge&logo=typescript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Selenium&color=cdf998&style=for-the-badge&logo=selenium"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Wordpress&color=cdd148&style=for-the-badge&logo=wordpress"/>
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=SQL&color=2b625f&style=for-the-badge&logo=sql"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Adobe&color=98bf53&style=for-the-badge&logo=adobe"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Mongo-DB&color=cdd148&style=for-the-badge&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=Node.js&color=cdf998&style=for-the-badge&logo=node"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Node.js&color=cdf998&style=for-the-badge&logo=node.js"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Express&color=bbb111&style=for-the-badge&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Webpack&color=bbb111&style=for-the-badge&logo=webpack"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Linux&color=bbb111&style=for-the-badge&logo=linux"/>
